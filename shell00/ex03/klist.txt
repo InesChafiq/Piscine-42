@@ -1,0 +1,5 @@
+Credentials cache: API:0C3923E4-E7CA-49C6-B134-4359449A97D3
+        Principal: ichafiq@42.FR
+
+  Issued                Expires               Principal
+Jul 29 15:35:32 2019  Aug  5 15:35:26 2019  krbtgt/42.FR@42.FR
